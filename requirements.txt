@@ -1,0 +1,16 @@
+# To be able to convert text to Speech
+SpeechRecognition  #(3.10.1)
+# Audio - speech to text
+PyAudio
+#To convey the text to speech and also speak it out
+gTTS  #(2.2.3)
+# To install our language model
+transformers  #(4.11.3)
+tensorflow #(2.6.0, or pytorch)
+
+# Install Numpy
+numpy
+
+# The Language Model - Transformer package provided by HuggingFace
+# we have specifically used the DialogGPT AI chatbot, trained and created by Microsoft based on millions of conversations and ongoing chats on the Reddit platform in a given time.
+transformers
